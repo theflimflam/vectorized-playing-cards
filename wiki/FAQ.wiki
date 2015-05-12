@@ -1,10 +1,6 @@
 #Frequently Asked Questions
 
-= Introduction =
-
-*Updating this soon...*
-
-= Details =
+= Frequently Asked Questions =
 
 *What is the proper way to add the mandatory attribution when using these vector graphics?*
   * Web Page. 
