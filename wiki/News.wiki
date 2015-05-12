@@ -1,6 +1,10 @@
 #labels Featured
 = News =
 
+
+*5/15/2015 - Version 2.0 scheduled
+ * Coming very soon...
+
 *10/29/2011 - Version 1.3 Released*
  * Additional cleanup / optimization of court cards. 
  * Card Back Template added. One can add their own image or pattern. 
