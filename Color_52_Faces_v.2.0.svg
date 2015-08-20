@@ -54,9 +54,7 @@
          mode="screen" />
     </filter>
   </defs>
-  <g
-     id="layer1"
-     transform="translate(0,2187.6378)">
+  <g id="playing-cards" transform="translate(0,2187.6378)">
     <g id="CA" transform="translate(500,-1100)">
       <use xlink:href="#outline" />
       <use xlink:href="#club" x="111.11198" y="131.89805" />
