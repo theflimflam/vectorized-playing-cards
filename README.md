@@ -1,4 +1,4 @@
-Vectoriezed playing cards, cleaned up to work as part of other projects
+Vectorized playing cards, cleaned up to work as part of other projects
 ================================================================================
 This is a fork of [Chris Aguilar's Vectorized Playing Cards 2.0][FORK],
 Copyright 2015, Chris Aguilar and Powershop NZ.
@@ -11,12 +11,12 @@ every line/node was redrawn from this initial starting point and then optimized
 to decrease file size and create cleaner curves, sharper transitions, etc.
 
 This fork takes all the generated inkscape stuff and tries to create
-a smaller SVG good to imbed in applications rather than for print.
+a smaller SVG good to embed in applications rather than for print.
 Inkscape cruft removed, with clean IDs and reuses vectors where possible.
 
   [FORK]: http://sourceforge.net/projects/vector-cards/
 
-Licence
+License
 --------------------------------------------------------------------------------
 The work is duel Licensed under [LGPL 3][LGPL] and [GPL 3][GPL].
 
