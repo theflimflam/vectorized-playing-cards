@@ -10,24 +10,22 @@ auto traced with Inkscape ( www.inkscape.org ) as a starting point. Nearly
 every line/node was redrawn from this initial starting point and then optimized
 to decrease file size and create cleaner curves, sharper transitions, etc.
 
-For .SVG capable editors (Inkscape and Illustrator CS2 tested)the cards are
-offered as complete sets of 52 (full color, gray-scale, and high contrast B/W).
-All three of those sets are also offered in Illustrator .eps format. A file
-containing various card elements (pips, numbers,etc.) is included for those for
-those who need to use those discrete vectors.
+This fork takes all the generated inkscape stuff and tries to create
+a smaller SVG good to imbed in applications rather than for print.
+Inkscape cruft removed, with clean IDs and reuses vectors where possible.
 
-Since these vectors were created for and optimized for use in Inkscape in .SVG
-format,it's my recommendation to use that program in conjunction with these
-vectors.
+  [FORK]: http://sourceforge.net/projects/vector-cards/
 
-For Release 2.0 many new simple pattern backs and specialized card faces sets
-have been created, but these require the use of Inkscape.
+Licence
+--------------------------------------------------------------------------------
+The work is duel Licensed under [LGPL 3][LGPL] and [GPL 3][GPL].
 
-A small set of ESP cards added.
+  [GPL]: http://www.gnu.org/licenses/lgpl-3.0.en.html
+  [LGPL]: http://www.gnu.org/copyleft/lesser.html
 
 When using this library, please include with your project (be it a book,
-program, derivative work, etc) the following attribution/credit per the LGPL
-3.0 licensing terms:
+program, derivative work, etc) the following attribution/credit per the
+LGPL 3.0 licensing terms
 
 Vectorized Playing Cards 2.0 Graphics Library is free software: you can
 redistribute it and/or modify it under the terms of the GNU Lesser General
@@ -38,9 +36,3 @@ Vectorized Playing Cards 2.0 Library is distributed in the hope that it will be
 useful, but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Lesser
 General Public License for more details.
-
-The work is duel Licensed under [LGPL 3][LGPL] and [GPL 3][GPL].
-
-  [FORK]: http://sourceforge.net/projects/vector-cards/
-  [GPL]: http://www.gnu.org/licenses/lgpl-3.0.en.html
-  [LGPL]: http://www.gnu.org/copyleft/lesser.html
