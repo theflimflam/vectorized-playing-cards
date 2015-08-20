@@ -1,0 +1,12 @@
+Vector Playing Card Library 
+VERSION 2.0 - RELEASED 2015-08-20
+
+Manual cleanups by Powershop Staff
+
+Original work by Chris Aguilar
+conjurenation@gmail.com
+http://sourceforge.net/projects/vector-cards
+
+Alternate Joker by John Merril
+john@delirus.net
+Colored versoin of alternate Joker by Chris Aguilar
