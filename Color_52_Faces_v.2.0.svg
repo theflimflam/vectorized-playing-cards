@@ -20,9 +20,9 @@
          ry="10.6" />
 
     <path id="club" d="m 0,0 c -9.77448,0.21226 -14.15742,11.21727 -6.91838,19.76329 1.04991,1.24653 1.15822,1.96187 -0.76457,0.76452 -4.87385,-3.25919 -14.21926,-1.11662 -14.69781,8.84728 -0.59115,12.27695 16.56285,15.81427 19.78371,2.75967 0.17004,-1.37736 1.28941,-1.34593 1.01952,0.60916 -0.29367,5.30641 -1.95083,10.26606 -4.22862,15.10253 3.83908,0 8.12955,0 11.62019,0 -2.27768,-4.83647 -3.93495,-9.79612 -4.22863,-15.10253 -0.26989,-1.95509 0.84949,-1.98652 1.01953,-0.60916 3.22086,13.0546 20.37486,9.51728 19.78371,-2.75967 -0.47845,-9.9639 -9.82396,-12.10647 -14.69781,-8.84728 -1.92278,1.19735 -1.81447,0.48201 -0.76457,-0.76452 7.23905,-8.54602 2.8561,-19.55102 -6.91829,-19.76329 0,-6e-5 0,5e-5 -0.01,0 z" />
-    <g id="club_upside_down"       transform="rotate(180)"><use xlink:href="#club"/></g>
-    <g id="club_small"             transform="scale(0.4)"><use xlink:href="#club"/></g>
-    <g id="club_small_upside_down" transform="scale(0.4)"><use xlink:href="#club_upside_down"/></g>
+    <g id="club-upside-down"       transform="rotate(180)"><use xlink:href="#club"/></g>
+    <g id="club-small"             transform="scale(0.4)"><use xlink:href="#club"/></g>
+    <g id="club-small-upside-down" transform="scale(0.4)"><use xlink:href="#club-upside-down"/></g>
 
     <path id="pip-ace" d="m 0,0 0,-2.8127 2.68028,0 5.70981,-30.0817 3.24983,0 6.2897,30.0817 2.1644,0 0,2.8127 -7.37513,0 0,-2.8127 1.99038,0 -0.79484,-4.6099 -7.44035,0 -0.57473,4.6099 1.99028,0 0,2.8127 -7.88963,0 z m 13.27957,-10.7064 -3.2345,-16.1007 -3.02962,16.1007 6.26412,0 z" />
     <g id="pip-ace-upside-down" transform="rotate(180,10,0)"><use xlink:href="#pip-ace"/></g>
@@ -64,17 +64,17 @@
     <g id="CA" transform="translate(500,-1100)">
       <use xlink:href="#outline" />
       <use xlink:href="#club" x="111.11198" y="131.89805" />
-      <use xlink:href="#club_small" x="17.13901" y="49.8134" />
-      <use xlink:href="#club_small_upside_down" x="205.09395" y="261.00032" />
+      <use xlink:href="#club-small" x="17.13901" y="49.8134" />
+      <use xlink:href="#club-small-upside-down" x="205.09395" y="261.00032" />
       <use xlink:href="#pip-ace" x="7.09201" y="46.6879" />
       <use xlink:href="#pip-ace-upside-down" x="195.04405" y="264.12581" />
     </g>
     <g id="C2" transform="translate(750,-1100)">
       <use xlink:href="#outline" />
       <use xlink:href="#club" x="109.94988" y="31.82043" />
-      <use xlink:href="#club_upside_down" x="109.94988" y="277.45347" />
-      <use xlink:href="#club_small" x="17.13901" y="49.8134" />
-      <use xlink:href="#club_small_upside_down" x="205.09395" y="261.00032" />
+      <use xlink:href="#club-upside-down" x="109.94988" y="277.45347" />
+      <use xlink:href="#club-small" x="17.13901" y="49.8134" />
+      <use xlink:href="#club-small-upside-down" x="205.09395" y="261.00032" />
       <use xlink:href="#pip-2" x="7.09201" y="46.6879" />
       <use xlink:href="#pip-2-upside-down" x="195.04405" y="264.12581" />
     </g>
@@ -82,9 +82,9 @@
       <use xlink:href="#outline" />
       <use xlink:href="#club" x="109.94988" y="31.82043" />
       <use xlink:href="#club" x="109.94988" y="130.71373" />
-      <use xlink:href="#club_small" x="17.13901" y="49.8134" />
-      <use xlink:href="#club_upside_down" x="109.94988" y="277.45348" />
-      <use xlink:href="#club_small_upside_down" x="205.09395" y="261.00032" />
+      <use xlink:href="#club-small" x="17.13901" y="49.8134" />
+      <use xlink:href="#club-upside-down" x="109.94988" y="277.45348" />
+      <use xlink:href="#club-small-upside-down" x="205.09395" y="261.00032" />
       <use xlink:href="#pip-3" x="8.5" y="37.0" />
       <use xlink:href="#pip-3-upside-down" x="192.5" y="274.0" />
     </g>
@@ -92,11 +92,11 @@
       <use xlink:href="#outline" />
       <use xlink:href="#club" x="162.6" y="31.82043" />
       <use xlink:href="#club" x="59.6" y="31.82043" />
-      <use xlink:href="#club_upside_down" x="162.6" y="274.0" />
-      <use xlink:href="#club_upside_down" x="59.6" y="274.0" />
+      <use xlink:href="#club-upside-down" x="162.6" y="274.0" />
+      <use xlink:href="#club-upside-down" x="59.6" y="274.0" />
 
-      <use xlink:href="#club_small" x="17.13901" y="49.8134" />
-      <use xlink:href="#club_small_upside_down" x="205.09395" y="261.00032" />
+      <use xlink:href="#club-small" x="17.13901" y="49.8134" />
+      <use xlink:href="#club-small-upside-down" x="205.09395" y="261.00032" />
 
       <use xlink:href="#pip-4" x="17.30" y="46.8" />
       <use xlink:href="#pip-4-upside-down" x="185.0" y="268.0" />
