@@ -1415,7 +1415,6 @@
                xml:space="preserve"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:Caladea;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter5450-1-8)"
                id="text4367"><tspan
-      
                  id="tspan4369"
                  x="413.36325"
                  y="367.82623"
@@ -1445,12 +1444,11 @@
          x="2159.5825"
          y="-1620.5996"
          id="tspan4927"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:Carlito;text-align:center;writing-mode:lr-tb;text-anchor:middle">Copyright 2015 - Chris Aguilar</tspan>
-      <tspan
-         x="2159.5825"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:Carlito;text-align:center;writing-mode:lr-tb;text-anchor:middle">Copyright 2015 - Chris Aguilar and Powershop NZ</tspan>
+      <tspan x="2159.5825"
          y="-1564.3496"
          id="tspan4931"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:Carlito;text-align:center;writing-mode:lr-tb;text-anchor:middle">http://sourceforge.net/projects/vector-cards/</tspan>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;line-height:125%;font-family:Carlito;text-align:center;writing-mode:lr-tb;text-anchor:middle">https://github.com/theflimflam/vectorized-playing-cards</tspan>
       <tspan
          x="2159.5825"
          y="-1508.0996"
