@@ -30,9 +30,9 @@
     <g id="heart-small-upside-down" transform="scale(0.4)"><use xlink:href="#heart-upside-down"/></g>
 
     <path id="spade" d="m 0,0 c -9.226,13.15712 -19.0977,20.72857 -19.2617,30.99333 -0.055,3.3239 1.7421,8.97342 7.3711,10.05478 3.652,0.69833 8.6801,-2.25748 8.7851,-8.26252 -0.016,-1.19555 1.2659,-1.16448 1.2539,0.47372 -0.172,4.73672 -1.6714,10.25156 -4.1914,14.74069 4.0287,0 8.0573,0 12.086,0 -2.52,-4.48913 -4.0194,-10.00397 -4.1914,-14.74069 -0.012,-1.6382 1.2699,-1.66927 1.2539,-0.47372 0.105,6.00504 5.1331,8.96085 8.7851,8.26252 5.629,-1.08136 7.4261,-6.73088 7.3711,-10.05478 -0.164,-10.26476 -10.0357,-17.83621 -19.2617,-30.99333 z" />
-    <g id="spade-upside-down"       transform="rotate(180)"><use xlink:href="#heart"/></g>
-    <g id="spade-small"             transform="scale(0.4)"><use xlink:href="#heart"/></g>
-    <g id="spade-small-upside-down" transform="scale(0.4)"><use xlink:href="#heart-upside-down"/></g>
+    <g id="spade-upside-down"       transform="rotate(180)"><use xlink:href="#spade"/></g>
+    <g id="spade-small"             transform="scale(0.4)"><use xlink:href="#spade"/></g>
+    <g id="spade-small-upside-down" transform="scale(0.4)"><use xlink:href="#spade-upside-down"/></g>
 
     <path id="diamond" d="m 0,50 c -5.1862,-8.5648 -10.6425,-16.8891 -17.4609,-24 6.8184,-7.1108 12.2747,-15.4351 17.4609,-24 5.1862,8.5649 10.6424,16.8892 17.4609,24 -6.8185,7.1109 -12.2747,15.4352 -17.4609,24 z" />
     <g id="diamond-upside-down"       transform="rotate(180)"><use xlink:href="#diamond"/></g>
