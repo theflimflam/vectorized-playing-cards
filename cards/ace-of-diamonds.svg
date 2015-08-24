@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+  <g class="card" fill="#D40000">
+    <use xlink:href="defs.svg#outline" />
+    <use xlink:href="defs.svg#diamond" x="111.11198" y="131.89805" />
+    <use xlink:href="defs.svg#diamond-small" x="17.13901" y="49.8134" />
+    <use xlink:href="defs.svg#diamond-small-upside-down" x="205.09395" y="261.00032" />
+    <use xlink:href="defs.svg#pip-ace" x="7.09201" y="46.6879" />
+    <use xlink:href="defs.svg#pip-ace-upside-down" x="195.04405" y="264.12581" />
+  </g>
+</svg>
