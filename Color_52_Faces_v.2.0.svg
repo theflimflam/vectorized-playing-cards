@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    width="48in"
@@ -66,18 +62,6 @@
     <g id="face-queen-upside-down" transform="rotate(180)"><use xlink:href="#face-queen"/></g>
     <path id="face-king" d="m 18,40 3.3049,0 -4.8549,-12.146 -3.7094,5.1307 0.026,7.0153 2.6048,0 0,3.618 -9.1799,0 0,-3.618 3.0245,0 0,-26.1206 -3.0245,0.012 0,-3.1625 9.3143,0 0,3.2695 -2.5703,0 -0.055,12.7307 8.1304,-12.8377 -2.8697,0 0,-3.1625 9.9096,0 0,3.1625 -2.6149,0 -6.6944,10.491 6.5548,15.623 2.9094,0 0.015,3.618 -10.1899,0 -0.031,-3.6232 z m 0,0" />
     <g id="face-king-upside-down" transform="rotate(180)"><use xlink:href="#face-king"/></g>
-
-
-
-    <!-- J3 Filters -->
-    <filter
-       style="color-interpolation-filters:sRGB"
-       id="filter5450-1-8">
-      <feBlend
-         id="feBlend5452-1-8"
-         in2="BackgroundImage"
-         mode="screen" />
-    </filter>
   </defs>
 
   <g id="playing-cards" transform="translate(0,2187.6378)">
